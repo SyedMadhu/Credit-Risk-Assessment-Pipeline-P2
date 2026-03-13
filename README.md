@@ -73,8 +73,9 @@ Economic Indicators
 Example Raw Storage Path:
 
 s3://credit-risk-data/raw/credit_data/YYYY/MM/DD/
-Data Pipeline Layers
-Bronze Layer – Raw Data Ingestion
+
+### Data Pipeline Layers
+### Bronze Layer – Raw Data Ingestion
 
 Purpose:
 
@@ -98,7 +99,8 @@ bronze_credit_applications
 bronze_credit_history
 bronze_loan_details
 bronze_economic_indicators
-Silver Layer – Data Cleaning and Transformation
+
+### Silver Layer – Data Cleaning and Transformation
 
 Purpose:
 
@@ -133,7 +135,8 @@ applicant_cleaned
 economic_indicators_cleaned
 risk_feature_dataset
 data_quality_summary
-Gold Layer – Risk Analytics
+
+### Gold Layer – Risk Analytics
 
 Purpose:
 
