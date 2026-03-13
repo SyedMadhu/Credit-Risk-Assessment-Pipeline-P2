@@ -154,11 +154,11 @@ Loan risk metrics
 
 These datasets enable deeper analysis of borrower behavior and loan risk patterns.
 
-Business Insights Generated
+## Business Insights Generated
 
 The pipeline enables multiple insights for financial institutions.
 
-Descriptive Analytics
+## Descriptive Analytics
 
 Total loan applications
 
@@ -170,7 +170,7 @@ Applicant income distribution
 
 Loan amount statistics
 
-Diagnostic Analytics
+### Diagnostic Analytics
 
 Debt-to-income ratio impact
 
