@@ -38,8 +38,7 @@ These datasets simulate a **real-world banking/credit risk system**.
 
 The pipeline integrates **Databricks + Delta Live Tables + AWS services**.
 
-[![
-](https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline/blob/main/assests/ARCHITECTURE_1773861870064.jpeg?raw=true)
+[!(https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline/blob/main/assests/ARCHITECTURE_1773861870064.jpeg?raw=true)
 ### End-to-End Flow
 
 ```
