@@ -239,8 +239,8 @@ Credit_Risk_Assessment_Pipeline
 Clone the repository:
 
 ```
-git clone https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline.git
-cd Credit_Risk_Assessment_Pipeline
+git clone https://github.com/SyedMadhu/Credit-Risk-Assessment-Pipeline-P2.git
+cd Credit-Risk-Assessment-Pipeline-P2
 ```
 
 Install dependencies:
